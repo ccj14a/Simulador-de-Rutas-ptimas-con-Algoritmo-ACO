@@ -6,9 +6,8 @@ Simulador diseñado para resolver el Problema del Viajero (TSP) aplicando el Alg
 
 En este proyecto utilicé las siguientes tecnologías y herramientas para desarrollar el simulador de rutas:
 
-- Python: Lenguaje de programación principal utilizado para implementar la lógica del simulador y la ejecución del algoritmo ACO.
-- NumPy: Biblioteca esencial para el manejo de grandes volúmenes de datos numéricos y cálculos matemáticos rápidos.
-- Pandas: Herramienta utilizada para la manipulación y análisis de datos estructurados, como coordenadas y distancias entre puntos.
-- Folium.js: Biblioteca para crear mapas interactivos donde se visualizan las rutas óptimas generadas por el algoritmo.
-- OSMnx: Utilizada para descargar y analizar la red de calles de Lima a partir de OpenStreetMap, permitiendo la construcción de un grafo de las calles para el algoritmo ACO.
-  <img src="imgs/python.png" alt="Python" width="40">
+- Python: Lenguaje de programación principal utilizado para implementar la lógica del simulador y la ejecución del algoritmo ACO. <img src="imgs/python.png" alt="python" width="40">
+- NumPy: Biblioteca esencial para el manejo de grandes volúmenes de datos numéricos y cálculos matemáticos rápidos.<img src="imgs/numpy.png" alt="python" width="40">
+- Pandas: Herramienta utilizada para la manipulación y análisis de datos estructurados, como coordenadas y distancias entre puntos.<img src="imgs/pandas.png" alt="python" width="40">
+- Folium.js: Biblioteca para crear mapas interactivos donde se visualizan las rutas óptimas generadas por el algoritmo.<img src="imgs/folium.png" alt="python" width="40">
+- OSMnx: Utilizada para descargar y analizar la red de calles de Lima a partir de OpenStreetMap, permitiendo la construcción de un grafo de las calles para el algoritmo ACO. <img src="imgs/osmnx.jpg" alt="python" width="40">
