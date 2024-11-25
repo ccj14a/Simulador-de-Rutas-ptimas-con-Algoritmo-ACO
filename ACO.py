@@ -184,7 +184,7 @@ class ACO:
 
 
 # Seleccionar 10 distritos aleatorios
-num_distritos = 10
+num_distritos = 15
 distritos_seleccionados = seleccionar_distritos_aleatorios(
     distritos_lima, num_distritos
 )
@@ -195,7 +195,7 @@ distancias = calcular_distancias(
 )
 
 # Ejecutar ACO
-aco = ACO(distancias, num_hormigas=5, num_iteraciones=5)
+aco = ACO(distancias, num_hormigas=10, num_iteraciones=10)
 
 start_time = time.time()
 mejor_ruta, mejor_distancia = aco.ejecutar()  # Única ejecución
@@ -265,4 +265,4 @@ folium.PolyLine(locations=mejor_ruta_coords, color="red", weight=3).add_to(
 )  # Resaltar la mejor ruta
 
 # Guardar el mapa como un archivo HTML
-mapa_lima.save("grafica_mapa.html")
+mapa_lima.save("grafica.html")
