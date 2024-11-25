@@ -2,14 +2,14 @@
 
 Simulador diseñado para resolver el Problema del Viajero (TSP) aplicando el Algoritmo de Colonia de Hormigas (ACO), enfocado en optimizar rutas dentro de los distritos de Lima, Perú. Este proyecto permite encontrar las rutas más eficientes en una red urbana utilizando técnicas avanzadas de optimización inspiradas en el comportamiento natural de las colonias de hormigas.
 
-# Archivos Generados
+## Archivos Generados
 
 Cada vez que se ejecute el simulador, se generarán los siguientes archivos:
 
 - **Archivo HTML**: Un archivo HTML con una representación visual de las rutas óptimas encontradas por el algoritmo.
 - **Archivo Excel**: Un archivo Excel que contiene detalles de las rutas, tiempos de ejecución, y otros parámetros relevantes.
 
-# Stack Tecnológico
+## Stack Tecnológico
 
 En este proyecto utilicé las siguientes tecnologías y herramientas para desarrollar el simulador de rutas:
 
@@ -21,7 +21,7 @@ En este proyecto utilicé las siguientes tecnologías y herramientas para desarr
 
   <img src="resources/python.png" alt="python" width="80"> &nbsp; <img src="resources/numpy.png" alt="numpy" width="80"> &nbsp; <img src="resources/pandas.png" alt="pandas" width="80"> &nbsp; <img src="resources/folium.png" alt="folium" width="80"> &nbsp; <img src="resources/osmnx.jpg" alt="osmnx" width="80">
 
-  # Preview
+  ## Preview
 ![mapa1](https://github.com/user-attachments/assets/e05b9c18-e3ff-4b84-a8d4-6690be91ddd0)
   
 ![mapa2](https://github.com/user-attachments/assets/0d9caf32-6db0-4f75-b7ac-3ee72950c705)
