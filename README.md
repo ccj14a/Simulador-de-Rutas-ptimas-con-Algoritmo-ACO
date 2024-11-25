@@ -12,4 +12,4 @@ En este proyecto utilicé las siguientes tecnologías y herramientas para desarr
 - Folium.js: Biblioteca para crear mapas interactivos donde se visualizan las rutas óptimas generadas por el algoritmo.
 - OSMnx: Utilizada para descargar y analizar la red de calles de Lima a partir de OpenStreetMap, permitiendo la construcción de un grafo de las calles para el algoritmo ACO.
 
-  <img src="imgs/python.png" alt="python" width="40">&nbsp;<img src="imgs/numpy.png" alt="numpy" width="40">&nbsp;<img src="imgs/pandas.png" alt="pandas" width="40">&nbsp;<img src="imgs/folium.png" alt="folium" width="40">&nbsp;<img src="imgs/osmnx.jpg" alt="osmnx" width="40">
+  <img src="imgs/python.png" alt="python" width="40"> &nbsp; <img src="imgs/numpy.png" alt="numpy" width="40"> &nbsp; <img src="imgs/pandas.png" alt="pandas" width="40"> &nbsp; <img src="imgs/folium.png" alt="folium" width="40"> &nbsp; <img src="imgs/osmnx.jpg" alt="osmnx" width="40">
