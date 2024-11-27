@@ -23,9 +23,10 @@ En este proyecto utilicé las siguientes tecnologías y herramientas para desarr
   <img src="resources/python.png" alt="python" width="80"> &nbsp; <img src="resources/numpy.png" alt="numpy" width="80"> &nbsp; <img src="resources/pandas.png" alt="pandas" width="80"> &nbsp; <img src="resources/folium.png" alt="folium" width="80"> &nbsp; <img src="resources/osmnx.jpg" alt="osmnx" width="80"> &nbsp; <img src="resources/html.png" alt="html" width="80">
 
   ## Preview
+![mapa1](https://github.com/user-attachments/assets/4c441750-fd8e-4ff2-a23f-2fc87ed5898a)
 
-  ![mapa1](https://github.com/user-attachments/assets/e05b9c18-e3ff-4b84-a8d4-6690be91ddd0)
+![mapa2](https://github.com/user-attachments/assets/505a5672-7b0f-419c-88c5-1f2fedec4716)
 
-![mapa2](https://github.com/user-attachments/assets/0d9caf32-6db0-4f75-b7ac-3ee72950c705)
+![mejorRuta](https://github.com/user-attachments/assets/b08163f1-1106-4071-8e05-33150c1a01e0)
 
-![mejorRuta](https://github.com/user-attachments/assets/84e2db2b-969b-45b8-adeb-5c8976df3c1b)
+
