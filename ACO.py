@@ -184,7 +184,7 @@ class ACO:
 
 
 # Seleccionar 10 distritos aleatorios
-num_distritos = 15
+num_distritos = 12
 distritos_seleccionados = seleccionar_distritos_aleatorios(
     distritos_lima, num_distritos
 )
@@ -195,7 +195,7 @@ distancias = calcular_distancias(
 )
 
 # Ejecutar ACO
-aco = ACO(distancias, num_hormigas=10, num_iteraciones=10)
+aco = ACO(distancias, num_hormigas=25, num_iteraciones=10)
 
 start_time = time.time()
 mejor_ruta, mejor_distancia = aco.ejecutar()  # Única ejecución
