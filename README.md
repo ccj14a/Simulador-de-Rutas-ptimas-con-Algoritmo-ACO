@@ -20,7 +20,7 @@ En este proyecto utilicé las siguientes tecnologías y herramientas para desarr
 - OSMnx: Utilizada para descargar y analizar la red de calles de Lima a partir de OpenStreetMap, permitiendo la construcción de un grafo de las calles para el algoritmo ACO.
 - HTML: Medio para mostrar el mapa con la mejor ruta trazada mediante una línea roja.
 
-  <img src="resources/python.png" alt="python" width="80"> &nbsp; <img src="resources/numpy.png" alt="numpy" width="80"> &nbsp; <img src="resources/pandas.png" alt="pandas" width="80"> &nbsp; <img src="resources/folium.png" alt="folium" width="80"> &nbsp; <img src="resources/osmnx.jpg" alt="osmnx" width="80">
+  <img src="resources/python.png" alt="python" width="80"> &nbsp; <img src="resources/numpy.png" alt="numpy" width="80"> &nbsp; <img src="resources/pandas.png" alt="pandas" width="80"> &nbsp; <img src="resources/folium.png" alt="folium" width="80"> &nbsp; <img src="resources/osmnx.jpg" alt="osmnx" width="80"> &nbsp; <img src="resources/html.png" alt="html" width="80">
 
   ## Preview
 
